@@ -1,0 +1,59 @@
+----------
+SPC result of file: temp_cluster
+
+SPC v2.1 (14/2/2000) -- efficient KNN and mstree                     
+SPC v2.0.1 (1/12/2000) -- StopRunAtBreak option                      
+SPC v2.0 (1/11/1999) -- new param file + revised data structures     
+-------------------------------------------------------------------
+knn modificado
+AverageInteraction	0.097064
+ClustersReported	12
+CharDist	16.776960
+DataFile	tmp_data_wc_1
+Dimensions	19
+DirectedGrowth	
+KNearestNeighbours	11
+MinTemp	0
+MaxTemp	0.251
+MSTree	
+NumberOfPoints	470
+NumberOfEdges	1483
+NearestNeighbrs	6.310638
+OutFile	data_wc1
+PottsSpins	20
+RandomSeed	26609
+SusceptColors	4
+SaveSuscept	
+SWCycles	100
+SWFraction	0.800000
+ThresholdTheta	0.500000
+TempStep	0.01
+WriteLables	
+WriteLabels	
+start: T loop
+.dg_01:  0.00000        1      470       0       0       0       0       0       0       0       0       0       0       0   
+.dg_01:  0.01000        5      352     106       8       3       1       0       0       0       0       0       0       0   
+.dg_01:  0.02000        8      347     104       8       5       3       1       1       1       0       0       0       0   
+.dg_01:  0.03000       13      343     101       8       5       3       2       2       1       1       1       1       1   
+.dg_01:  0.04000       19      342      98       6       5       3       2       2       1       1       1       1       1   
+.dg_01:  0.05000       28      331      96       5       4       3       3       3       2       2       2       2       1   
+.dg_01:  0.06000       40      319      96       4       3       3       3       2       2       2       2       2       2   
+.dg_01:  0.07000       52      315      95       3       3       2       2       2       2       2       2       1       1   
+.dg_01:  0.08000       73      294      84       3       3       3       3       3       3       2       2       2       2   
+.dg_01:  0.09000       96      277      82       9       3       2       2       2       2       2       2       2       1   
+.dg_01:  0.10000      113      266      79       5       2       2       2       2       2       2       2       2       2   
+.dg_01:  0.11000      131      247      74       5       5       3       3       2       2       2       2       2       2   
+.dg_01:  0.12000      150      231      71       8       4       4       3       2       2       2       2       2       1   
+.dg_01:  0.13000      181      214      54       5       3       3       3       3       3       2       2       2       2   
+.dg_01:  0.14000      229      156      21      10      10       8       6       5       4       4       3       3       3   
+.dg_01:  0.15000      303       97      17       8       7       7       5       3       3       3       3       3       2   
+.dg_01:  0.16000      362       69       9       5       5       4       3       3       3       3       3       2       2   
+.dg_01:  0.17000      408       35       6       4       4       4       3       2       2       2       2       2       2   
+.dg_01:  0.18000      442        5       4       4       4       3       3       3       2       2       2       2       2   
+.dg_01:  0.19000      463        3       2       2       2       2       2       1       1       1       1       1       1   
+.dg_01:  0.20000      470        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.21000      470        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.22000      470        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.23000      470        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.24000      470        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.25000      470        1       1       1       1       1       1       1       1       1       1       1       1   

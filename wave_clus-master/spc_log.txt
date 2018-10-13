@@ -1,0 +1,57 @@
+
+SPC v2.1 (14/2/2000) -- efficient KNN and mstree                     
+SPC v2.0.1 (1/12/2000) -- StopRunAtBreak option                      
+SPC v2.0 (1/11/1999) -- new param file + revised data structures     
+-------------------------------------------------------------------
+knn modificado
+AverageInteraction	0.090459
+ClustersReported	12
+CharDist	9.639182
+DataFile	tmp_data_wc
+Dimensions	10
+DirectedGrowth	
+KNearestNeighbours	11
+MinTemp	0
+MaxTemp	0.251
+MSTree	
+NumberOfPoints	190
+NumberOfEdges	657
+NearestNeighbrs	6.915790
+OutFile	data_wc
+PottsSpins	20
+RandomSeed	17728
+SusceptColors	4
+SaveSuscept	
+SWCycles	100
+SWFraction	0.800000
+ThresholdTheta	0.500000
+TempStep	0.01
+WriteLables	
+WriteLabels	
+start: T loop
+.dg_01:  0.00000        1      190       0       0       0       0       0       0       0       0       0       0       0   
+.dg_01:  0.01000       11      175       5       2       1       1       1       1       1       1       1       1       0   
+.dg_01:  0.02000       13      173       5       2       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.03000       15      171       5       2       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.04000       20      166       5       2       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.05000       22      161       5       4       2       1       1       1       1       1       1       1       1   
+.dg_01:  0.06000       25      158       5       4       2       1       1       1       1       1       1       1       1   
+.dg_01:  0.07000       27      157       4       3       2       2       1       1       1       1       1       1       1   
+.dg_01:  0.08000       31      154       4       3       2       1       1       1       1       1       1       1       1   
+.dg_01:  0.09000       38      137      13       2       2       2       2       1       1       1       1       1       1   
+.dg_01:  0.10000       49       71      49      10       8       4       3       2       2       1       1       1       1   
+.dg_01:  0.11000       57       68      45      10       7       3       3       3       2       1       1       1       1   
+.dg_01:  0.12000       70       58      45      10       4       3       2       2       2       2       2       1       1   
+.dg_01:  0.13000       81       44      42      12      10       3       3       2       1       1       1       1       1   
+.dg_01:  0.14000       91       44      19      17      10      10       3       2       2       1       1       1       1   
+.dg_01:  0.15000      100       43      16      10       9       7       4       4       3       2       2       1       1   
+.dg_01:  0.16000      122       23      16      11       6       5       3       2       2       2       2       2       2   
+.dg_01:  0.17000      145       15      13       5       4       3       3       3       2       2       2       2       2   
+.dg_01:  0.18000      159       13       6       4       4       3       3       3       2       2       1       1       1   
+.dg_01:  0.19000      171        5       4       4       3       3       3       2       2       2       1       1       1   
+.dg_01:  0.20000      184        3       2       2       2       2       1       1       1       1       1       1       1   
+.dg_01:  0.21000      188        2       2       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.22000      190        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.23000      190        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.24000      190        1       1       1       1       1       1       1       1       1       1       1       1   
+.dg_01:  0.25000      190        1       1       1       1       1       1       1       1       1       1       1       1   
